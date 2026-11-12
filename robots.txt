@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rentaccounts.github.io/LinkedIn/sitemap.xml
